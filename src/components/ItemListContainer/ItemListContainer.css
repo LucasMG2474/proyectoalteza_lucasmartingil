@@ -1,0 +1,9 @@
+.ItemListContainer{
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(16, 129, 22);
+  font-style:italic;
+  font-size: larger;
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif; 
+}
